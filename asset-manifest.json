@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TurboG_Star/static/css/main.aed68e19.css",
+    "main.js": "/TurboG_Star/static/js/main.adffd9a8.js",
+    "static/media/3357683.jpg": "/TurboG_Star/static/media/3357683.0bb21926647bdc9681d7.jpg",
+    "static/media/ok.webp": "/TurboG_Star/static/media/ok.869dc1ab0e994bc20532.webp",
+    "index.html": "/TurboG_Star/index.html",
+    "main.aed68e19.css.map": "/TurboG_Star/static/css/main.aed68e19.css.map",
+    "main.adffd9a8.js.map": "/TurboG_Star/static/js/main.adffd9a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aed68e19.css",
+    "static/js/main.adffd9a8.js"
+  ]
+}
