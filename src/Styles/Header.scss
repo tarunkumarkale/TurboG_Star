@@ -1,0 +1,48 @@
+@import 'colors';
+
+
+nav {
+ width: 100%;
+ padding: 1rem;  // means16px
+display: flex;
+align-items: center;
+position: sticky;
+background-color: $first;
+top:0%;
+z-index: 10;
+
+  >h1{
+    text-transform: uppercase;
+  }
+  > main{
+    width: 70%;
+    display: flex;
+    justify-content: flex-end;
+   
+
+  >a {
+    color:$dark;
+    margin: 1rem;
+    
+
+    &:hover{
+        color: $third;
+    }
+  }
+
+}
+}
+
+// medai query nav bar
+
+@media (max-width: 480px) {
+
+   main{
+    justify-content: flex-end;
+    flex-direction: column;
+    margin-left: 2rem;
+  }
+
+
+  
+}

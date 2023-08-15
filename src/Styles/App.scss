@@ -1,0 +1,30 @@
+  
+//   diffeencre between scss vs sass
+
+//   scss 
+//    h1{
+//       p{
+//           nmae
+//       }
+//    }
+
+
+//    sass 
+//    h1
+//       p 
+//          name
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100;1,300&display=swap');
+
+  *{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;    
+    // width 100% laptop screen and wohi apna parent hai borderbox menas jobhi apan banayge vo screen se bhar nahi niklega chahe apna margin  (margin krte hai to scren se bhar nikal jata hi vo), border full,ya  padding  border box incrlude kr let hai   , content box  defult hot ahi
+    text-decoration: none;
+    scroll-behavior: smooth;
+         
+  }
